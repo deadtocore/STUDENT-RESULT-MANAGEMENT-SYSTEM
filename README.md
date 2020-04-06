@@ -1,1 +1,5 @@
 # MINI_project
+#Team_Members
+1. AMAN SINGH
+2. ANKUR SHARMA
+3. MOHAMMAD ANNAN SHEIKH
