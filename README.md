@@ -1,4 +1,4 @@
-# MINI_project
+# MINI_PROJECT
 #Team_Members
 1. AMAN SINGH
 2. ANKUR SHARMA
